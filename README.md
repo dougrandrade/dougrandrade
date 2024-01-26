@@ -4,7 +4,7 @@ As I approach two decades of service in the U.S. Navy, I am beginning to prepare
 
 Inspired by my William & Mary MBA, I continued to develop and grow my passion for machine learning, statistics, and decision modeling by imersing myself through a second Masters of Science in Business Analytics at W&M and Data Science Certification at the Naval Postgraduate School.
 
-In my path toward preparing for a military to civilian career transition, I've dedicated myself to continuous learning through self-inspired machine learning and data analytics projects, presented on my GitHub profile. My intentions guiding this effort is to further my own understanding and proficiency in the field, afford myself experience in summarizing and presenting my findings, and perhaps gain the attention of others who may learn from my personal education.
+In my path toward preparing for a military to civilian career transition, I've dedicated myself to continuous learning through self-inspired machine learning and data analytics projects, presented on my GitHub profile. My intentions guiding this effort is to further my own understanding and proficiency in the field, gain experience in summarizing and presenting my findings, and perhaps invite the attention of others who may learn from my personal education.
 
 
 
