@@ -1,4 +1,4 @@
-### Welcome! I'm Doug Andrade, an active duty Naval Flight Officer in the U.S. Navy and an aspiring data scientist. 
+#### Welcome! I'm Doug Andrade, an active duty Naval Flight Officer in the U.S. Navy and an aspiring data scientist. 
 
 As I approach two decades of service in the U.S. Navy, I am beginning to prepare myself for a pivot into the field of data science and business analytics.
 
