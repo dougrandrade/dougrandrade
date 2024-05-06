@@ -1,10 +1,8 @@
-#### Welcome! I'm Doug Andrade, an active-duty Naval Flight Officer in the U.S. Navy and an aspiring data scientist. 
-
-As I approach two decades of service in the U.S. Navy, I am preparing to pivot into the field of data science and business analytics.
+#### Welcome! My name is Doug Andrade - I'm an active-duty U.S. Naval Flight Officer and an aspiring data scientist. 
 
 Inspired by my William & Mary MBA, I continued to develop and grow my passion for machine learning, statistics, and decision modeling by immersing myself in a second Master of Science in Business Analytics at W&M and Data Science Certification at the Naval Postgraduate School.
 
-In my path toward preparing for a military to civilian career transition, I've dedicated myself to continuous learning through self-inspired machine learning and data analytics projects, presented on my GitHub profile. My intentions guiding this effort are to further my understanding and proficiency in the field, gain experience in summarizing and presenting my findings, and perhaps invite the attention of others who may learn from my education.
+In preparation for a military-to-civilian career transition, I have committed to continuous learning through self-inspired machine learning and data analytics projects, presented on my GitHub profile. My intentions is to further my proficiency in the field, gain experience in presenting my findings, and invite the attention of others who may learn from my experiences.
 
 
 
