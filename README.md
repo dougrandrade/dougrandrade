@@ -4,7 +4,7 @@ During my time pursuing my William & Mary MBA (2021) and under the inspirational
 
 In my nearly two decades of Naval service, I've witnessed the transformative impact of data-driven decision-making across various domains, including Naval Aviation squadron training, ship's tactical communications evaluation, and advocacy for future technology investment.
 
-My goal is to continuously enhance my proficiency in data science, applying practical techniques to real-world applications. Through this portfolio, I aim to showcase my journey and projects and engage with a community of like-minded individuals, sharing insights and experiences to collectively advance our understanding and application of data science.
+My goal is to continuously enhance my proficiency in data science, applying practical techniques to real-world applications. Through this portfolio, I aim to showcase my projects and engage with a community of like-minded individuals, sharing insights and experiences to collectively advance our understanding and application of data science.
 
 
 
