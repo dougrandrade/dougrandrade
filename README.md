@@ -1,6 +1,6 @@
 #### Welcome to my data analytics portfolio.
 
-My goal is to continuously grow my proficiency in data science, applying practical techniques to real-world applications. I aim to engage the community through my work, sharing insights and findings to continue developing my understanding and application of data science.
+My goal is to continuously grow my proficiency in data science, employing practical techniques to real-world applications. I aim to engage the community through my work, sharing insights and findings to continue developing my understanding and application of data science.
 
 <!--
 **dougrandrade/dougrandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
