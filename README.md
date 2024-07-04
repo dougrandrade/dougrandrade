@@ -2,6 +2,12 @@
 
 My goal is to continuously grow my proficiency in data science, employing practical techniques to real-world applications. I aim to engage the community through my work, sharing insights and findings to continue developing my understanding and application of data science.
 
+My GitHub portfolio is a living series of projects that I have continuously mature and grow over time, relative to my balance of time between work, family, and self-study.
+
+I focus on machine learning using R and Python:
+- Convolutional neural network deep learning in Python with Keras and Tensorflow
+- Time Series analysis in Python and R, with visualizations and interactive dashboards (matplotlib, ggplot, Shiny, etc)
+- Graduate school data science projects in jupyter notebook format
 <!--
 **dougrandrade/dougrandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
