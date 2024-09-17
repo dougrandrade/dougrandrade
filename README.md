@@ -1,13 +1,16 @@
-#### Welcome to my data analytics portfolio.
+#### Welcome to my data science portfolio.
 
-My goal is to continuously grow my proficiency in data science, employing practical techniques to real-world applications. I aim to engage the community through my work, sharing insights and findings to continue developing my understanding and application of data science.
-
-My GitHub portfolio is a living series of projects that I have continuously mature and grow over time, relative to my balance of time between work, family, and self-study.
+Welcome to my GitHub portfolio, where I highlight a living series of practical applications and creative problem-solving across diverse domains in data science.
 
 I focus on machine learning using R and Python:
-- Convolutional neural network deep learning in Python with Keras and Tensorflow
-- Time Series analysis in Python and R, with visualizations and interactive dashboards (matplotlib, ggplot, Shiny, etc)
-- Graduate school data science projects in jupyter notebook format
+- Convolutional Neural Networks (CNNs): Leveraging Python, Keras, and TensorFlow to tackle image classification, object detection, and more.
+- Time Series Analysis: Utilizing Python and R for forecasting and trend analysis, accompanied by interactive visualizations and dashboards.
+- Graduate School Projects: Presenting data science projects from my academic background, documented in Jupyter notebooks.
+
+I am driven to innovation and experimentation as a means to progressively refine and advance my expertise in data science. My goal is to engage with the community by sharing personal insights, methodologies, and lessons learned through my projects.
+
+Feel free to reach out with any comments and/or questions!
+
 <!--
 **dougrandrade/dougrandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
