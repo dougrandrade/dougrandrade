@@ -7,7 +7,7 @@ I focus on machine learning using R and Python:
 - Time Series Analysis: Utilizing Python and R for forecasting and trend analysis, accompanied by interactive visualizations and dashboards.
 - Graduate School Projects: Presenting data science projects from my academic background, documented in Jupyter notebooks.
 
-I am driven to innovation and experimentation as a means to progressively refine and advance my expertise in data science. My goal is to engage with the community by sharing personal insights, methodologies, and lessons learned through my projects.
+Driven to innovation and experimentation as a means to progressively refine and advance my expertise in data science. My goal is to engage with the community by sharing personal insights, methodologies, and lessons learned through my projects.
 
 Feel free to reach out with any comments and/or questions!
 
